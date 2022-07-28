@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Agile is about Values and Principles
+          Go to AUT Web page
         </a>
       </header>
     </div>
