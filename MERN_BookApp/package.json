@@ -1,0 +1,26 @@
+{
+  "name": "mern_bookapp",
+  "version": "1.0.0",
+  "description": "MERN Stack Book Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Na-David/MERN_BookApp.git"
+  },
+  "author": "David",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Na-David/MERN_BookApp/issues"
+  },
+  "homepage": "https://github.com/Na-David/MERN_BookApp#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.1",
+    "validation": "^0.0.1"
+  }
+}
